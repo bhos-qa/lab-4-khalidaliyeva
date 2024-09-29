@@ -35,7 +35,7 @@ tasks.test {
 
 sonarqube {
     properties {
-        property("sonar.projectKey", "bhos-qa_lab-3-EsmiraFarziyeva2004")
+        property("sonar.projectKey", "bhos-qa_lab-4-khalidaliyeva")
         property("sonar.organization", "bhos-qa")
         property("sonar.host.url", "https://sonarcloud.io")
         property("sonar.login", "1de86552108fdc61438b1abf41e26a582494134d")
