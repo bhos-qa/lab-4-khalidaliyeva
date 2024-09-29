@@ -38,7 +38,7 @@ sonarqube {
         property("sonar.projectKey", "bhos-qa_lab-4-khalidaliyeva")
         property("sonar.organization", "bhos-qa")
         property("sonar.host.url", "https://sonarcloud.io")
-        property("sonar.login", "1de86552108fdc61438b1abf41e26a582494134d")
+        property("sonar.login", "67ff020a6bf1c5243d64bfd73f82b91e11ec35c7")
         property("sonar.sources", "src/main/java") 
         property("sonar.java.binaries", "build/classes/java/main")
         property("sonar.java.libraries", "build/libs/*.jar")
