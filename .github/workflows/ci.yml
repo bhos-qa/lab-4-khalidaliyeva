@@ -1,4 +1,4 @@
-name: Sonar Cloud
+name: Sonar
  
 on:
   pull_request:
